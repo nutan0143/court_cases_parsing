@@ -30,11 +30,8 @@ Use the test.py file
 		### *OUTPUT:*
 
 		Search Result:
-
 		200100000032013.html
-
 		200100000042014.html
-
 		200100000062013.html
 
 2. Enter Name for search: Nutan
