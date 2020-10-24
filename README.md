@@ -9,18 +9,18 @@ Use the test.py file
 
 1. Make folder
 	
-	mkdir folder_name
+		mkdir folder_name
 
 2. Go to folder
 	
 		cd folder_name
 2. Clone code from github 
 
-	git clone -b Main https://github.com/nutan0143/court_cases_parsing.git
+		git clone -b main https://github.com/nutan0143/court_cases_parsing.git
 
 3. Run Script file
 
-	python test.py
+		python test.py
 
 
 ### * Test Case*
