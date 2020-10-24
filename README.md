@@ -27,16 +27,19 @@ Use the test.py file
 
 1. Enter Name for search: SCS - Special Civil Suit
 
-### *OUTPUT:*
+		### *OUTPUT:*
 
-Search Result:
-200100000032013.html
-200100000042014.html
-200100000062013.html
+		Search Result:
+
+		200100000032013.html
+
+		200100000042014.html
+
+		200100000062013.html
 
 2. Enter Name for search: Nutan
 
 
-### *OUTPUT:*
+		### *OUTPUT:*
 
-No such name found.
+		No such name found.
